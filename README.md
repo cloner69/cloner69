@@ -3,8 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>SwiftUI Animation</b>
   - [Draggable Tab Bar similar found in X and Snapchat](https://github.com/cloner69/DraggableTabBar)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
