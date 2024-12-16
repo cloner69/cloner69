@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>SwiftUI Animation</b>
-  - [Draggable Tab Bar similar found in X(formerly twitter) and Snapchat](https://github.com/cloner69/DraggableTabBar)
+  - [Draggable Tab Bar similar found in X and Snapchat](https://github.com/cloner69/DraggableTabBar)
 
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
