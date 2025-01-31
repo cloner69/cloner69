@@ -19,7 +19,7 @@
 - 📫 How to reach me **abiyoga98@gmail.com**
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>SwiftUI</b>
+<b>SwiftUI</b>
 
   - [Draggable Tab Bar similar found in X and Snapchat](https://github.com/cloner69/DraggableTabBar)
   
@@ -43,7 +43,7 @@
 
   - [News App(MVVM SwiftUI and UIKit VIPER version)](https://github.com/cloner69/News-App)
 
-- <b>UIKit</b>
+<b>UIKit</b>
   - [Almate App](https://github.com/Almate-AppleAcademy/Almate)
 
   - [Instagram Clone]
