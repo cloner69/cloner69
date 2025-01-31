@@ -19,9 +19,40 @@
 - 📫 How to reach me **abiyoga98@gmail.com**
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>SwiftUI Animation</b>
+- <b>SwiftUI</b>
+
   - [Draggable Tab Bar similar found in X and Snapchat](https://github.com/cloner69/DraggableTabBar)
   
+  - [Animated Chart](https://github.com/cloner69/AnimatedChart)
+  
+  - [Scrollable Tab Bar](https://github.com/cloner69/ScrollableTabBar)
+  
+  - [Time Picker](https://github.com/cloner69/TimePicker)
+
+  - [Glassmorphism UI](https://github.com/cloner69/Glassmorphism)
+
+  - [Chips UI](https://github.com/cloner69/ChipsUI)
+
+  - [Expandable Search Bar](https://github.com/cloner69/ExpandableSearchBar)
+
+  - [Tag TextField](https://github.com/cloner69/TagTextField)
+
+  - [Splash Screen](https://github.com/cloner69/SplashScreen)
+
+  - [Alumni Job Seeker](https://github.com/cloner69/AlumniJobSeeker)
+
+  - [News App(MVVM SwiftUI and UIKit VIPER version)](https://github.com/cloner69/News-App)
+
+- <b>UIKit</b>
+  - [Almate App](https://github.com/Almate-AppleAcademy/Almate)
+
+  - [Instagram Clone]
+ 
+  - [Spotify Clone]
+ 
+  - [Netflix Clone]
+ 
+  - [Facebook Clone]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adrian abiyoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian abiyoga" height="30" width="40" /></a>
