@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Adrian S. Abiyoga</h1>
 <h3 align="center">A passionate IOS Developer & Project management from Indonesia</h3>
 
-- 🔭 I’m currently working on **Simple Task Manager on IOS 18.2 using SwiftUI**
+- 🔭 I’m currently working on **Instagram Clone|MVVM|Firebase|CRUD on IOS 18.2 using SwiftUI**
 
-- 🌱 I’m currently learning **ARKit, ChatGPT integration with apps, Flutter**
+- 🌱 I’m currently learning **HomeKit, Cursor, Github Copilot, Flutter**
 
 - 👯 I’m looking to collaborate on **any project that you're working on**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **abiyoga98@gmail.com**
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects That I learned:</h2>
 <b>SwiftUI</b>
 
   - [Draggable Tab Bar similar found in X and Snapchat](https://github.com/cloner69/DraggableTabBar)
@@ -41,7 +41,97 @@
 
   - [Alumni Job Seeker](https://github.com/cloner69/AlumniJobSeeker)
 
-  - [News App(MVVM SwiftUI and UIKit VIPER version)](https://github.com/cloner69/News-App)
+  - [News App(MVVM SwiftUI and UIKit VIPER)](https://github.com/cloner69/News-App)
+
+  - [Scrollable Indicators](https://github.com/cloner69/ScrollableIndicators)
+
+  - [Netflix Splash Screen Clone](https://github.com/cloner69/NetflixSplashScreen)
+
+  - [Tag View](https://github.com/cloner69/TagView)
+
+  - [Mini Video Player](https://github.com/cloner69/MiniPlayer)
+
+  - [Backdrop Carousel](https://github.com/cloner69/BackdropCarousel)
+
+  - [Simple Music Player UI](https://github.com/cloner69/SimpleMusicPlayerUI)
+
+  - [Interactive Toast](https://github.com/cloner69/InteractiveToast)
+
+  - [Custom Tag View](https://github.com/cloner69/CustomTagView)
+
+  - [JSON with Pagination](https://github.com/cloner69/JSONwithPagination)
+
+  - [Universal View](https://github.com/cloner69/UniversalView)
+
+  - [Custom Video Player](https://github.com/cloner69/CustomVideoPlayer)
+
+  - [Reels Layout](https://github.com/cloner69/ReelsLayout)
+
+  - [Auto OTP Layout](https://github.com/cloner69/AutoOTPLayout)
+
+  - [Range Slider](https://github.com/cloner69/RangeSlider)
+
+  - [Auto Scrolling Tabs](https://github.com/cloner69/AutoScrollingTabs)
+
+  - [Zoom transition](https://github.com/cloner69/ZoomTransition)
+
+  - [Instagram Swipe to Camera](https://github.com/cloner69/Insta_Swipe)
+
+  - [Intro & Login UI](https://github.com/cloner69/intro_LoginUI)
+
+  - [Share Sheet](https://github.com/cloner69/ShareSheet)
+
+  - [Resizable Header](https://github.com/cloner69/ResizableHeader)
+
+  - [Image Slider View](https://github.com/cloner69/ImageSliderView)
+
+  - [MailApp Tab Bar](https://github.com/cloner69/MailAppTabBar)
+
+  - [Compositional Grid Layout](https://github.com/cloner69/CompositionalGridLayout)
+
+  - [Drop Down Picker](https://github.com/cloner69/DropDownPicker)
+
+  - [Theme Changer](https://github.com/cloner69/ThemeChanger)
+
+  - [Scroll Parallax](https://github.com/cloner69/ScrollParallax)
+
+  - [Pulsing Button](https://github.com/cloner69/PulsingButton)
+
+  - [Custom File Extension](https://github.com/cloner69/CustomFileExtension)
+
+  - [Import/Export Data](https://github.com/cloner69/DataImportExport)
+
+  - [Hero Navigation](https://github.com/cloner69/HeroNavigation)
+
+  - [Animated Menu](https://github.com/cloner69/AnimatedMenu)
+
+  - [Animated Segmented Control](https://github.com/cloner69/AnimatedSegmentedControl)
+
+  - [Floating Tab Bar](https://github.com/cloner69/FloatingTabBar)
+
+  - [DeepLink](https://github.com/cloner69/DeepLink)
+
+  - [Auto Scroll Carousel](https://github.com/cloner69/AutoScrollCarousel)
+
+  - [Custom Swipe Action](https://github.com/cloner69/CustomSwipeAction)
+
+  - [Infinite View](https://github.com/cloner69/InfiniteView)
+
+  - [In App Notifications](https://github.com/cloner69/InAppNotifications)
+
+  - [Login UI](https://github.com/cloner69/LoginKit)
+
+  - [Particle Emitter](https://github.com/cloner69/ParticleEmitter)
+
+  - [Custom Button](https://github.com/cloner69/CustomButton)
+
+  - [Drag Image Picker](https://github.com/cloner69/DragImagePicker)
+
+  - [Drag Drop List](https://github.com/cloner69/DragDropList)
+
+  - [Dark Mode Animation](https://github.com/cloner69/DarkModeAnimation)
+
+  - [Show Case View](https://github.com/cloner69/ShowcaseView)
 
 <b>UIKit</b>
   - [Almate App](https://github.com/Almate-AppleAcademy/Almate)
