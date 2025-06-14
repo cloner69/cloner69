@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Adrian S. Abiyoga</h1>
 <h3 align="center">A passionate IOS Developer & Project management from Indonesia</h3>
 
-- 🔭 I’m currently working on **Instagram Clone|MVVM|Firebase|CRUD on IOS 18.2 using SwiftUI**
+- 🔭 I’m currently working on **Fitness App built with SwiftUI**
 
-- 🌱 I’m currently learning **HomeKit, Cursor, Github Copilot, Flutter**
+- 🌱 I’m currently learning **Unity and Blender**
 
 - 👯 I’m looking to collaborate on **any project that you're working on**
 
